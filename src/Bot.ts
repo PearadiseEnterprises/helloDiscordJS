@@ -1,6 +1,6 @@
 import { constants } from "buffer";
 import { Client, ClientOptions } from "discord.js";
-import { TOKEN } from "src/constants/constants";
+import { TOKEN } from 'src/constants/constants';
 
 console.log("Bot is starting...");
 
