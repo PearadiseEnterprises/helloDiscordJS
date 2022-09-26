@@ -4,3 +4,4 @@
 ## Developers
 - Kevin Hagy
 - Daniel Kuzmin
+- Peter Griffin
