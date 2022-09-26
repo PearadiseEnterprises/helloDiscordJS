@@ -5,3 +5,4 @@
 - Kevin Hagy
 - Daniel Kuzmin
 - Peter Griffin
+- Lois Griffin
