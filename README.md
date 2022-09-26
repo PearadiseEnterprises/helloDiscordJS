@@ -13,3 +13,4 @@
 ## Developers
 - Kevin Hagy
 - Daniel Kuzmin
+- Antony Adov
