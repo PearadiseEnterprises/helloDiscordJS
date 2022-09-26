@@ -4,5 +4,3 @@
 ## Developers
 - Kevin Hagy
 - Daniel Kuzmin
-- Brian Griffin
-- test
