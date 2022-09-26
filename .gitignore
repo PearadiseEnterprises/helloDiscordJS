@@ -1,5 +1,7 @@
 # Private
 constants/
+const/
+constants.ts
 
 lib-cov
 *.seed
@@ -56,3 +58,6 @@ yarn.lock
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# package lock
+package-lock.json
