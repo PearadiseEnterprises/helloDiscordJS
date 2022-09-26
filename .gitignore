@@ -1,5 +1,7 @@
 # Private
 constants/
+const/
+constants.ts
 
 lib-cov
 *.seed
