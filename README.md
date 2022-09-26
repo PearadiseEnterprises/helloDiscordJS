@@ -3,4 +3,4 @@
 
 ## Developers
 - Kevin Hagy
-- Daniel Kuzman
+- Daniel Kuzmin
