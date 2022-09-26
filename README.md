@@ -4,4 +4,3 @@
 ## Developers
 - Kevin Hagy
 - Daniel Kuzmin
-- test2
